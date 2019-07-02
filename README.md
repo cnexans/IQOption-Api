@@ -3,14 +3,15 @@
 # IQOption Api
 
 
-A Simple websocket API for IQ Option.
+Websocket API for IQ Option.
 
 
 
 * Version: 0.3a
 * Python: 2, 3
 * Website: https://github.com/harwee/IQOption-Api
-* Author: Sri Harsha Gangisetty
+* Original author: Sri Harsha Gangisetty
+* Issue Hunt: https://issuehunt.io/r/cnexans/IQOption-Api
 
 ## IMPORTANT
 Please use the code from `async` branch master branch will be updated onceall the basic functionality is completly rewritten in async branch.
